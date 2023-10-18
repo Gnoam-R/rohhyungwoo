@@ -1,4 +1,15 @@
-# Android App 개발자 노형우 입니다.
+# Android App 개발자 입니다.
+
+나에 대해서
+
+* 💼 Android App developer & Embedded developer
+
+* 📈 새로운 기술에 대해 탐구 하는 것을 좋아합니다
+
+* ❤️ 현재 android compose에 대해 스터디 하는 중 입니다.
+
+* 💬 Ios 앱 개발에 흥미를 가지고 있습니다
+
 
 ![rohhyungwoo github stats](https://github-readme-stats.vercel.app/api?username=rohhyungwoo&show_icons=true)
 [![rohhyungwoo github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohhyungwoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rohhyungwoo)
