@@ -17,6 +17,8 @@
 ![rohhyungwoo github stats](https://github-readme-stats.vercel.app/api?username=rohhyungwoo&show_icons=true)
 [![rohhyungwoo github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohhyungwoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rohhyungwoo)
 
+<br>
+<br>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -28,6 +30,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+<br>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohhyungwoo)](https://github.com/ryo-ma/github-profile-trophy)
