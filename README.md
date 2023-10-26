@@ -1,4 +1,4 @@
-# Android App 개발자 입니다.
+# Android & IOS App 개발자 입니다.
 
 나에 대해서
 
