@@ -1,8 +1,8 @@
-# Android & IOS App 개발자 입니다.
+# Android & iOS App 개발자 입니다.
 
 나에 대해서
 
-* 💼 Android App developer & Embedded developer
+* 💼 Android App developer & iOS App developer
 
 * 📈 새로운 기술에 대해 탐구 하는 것을 좋아합니다
 
